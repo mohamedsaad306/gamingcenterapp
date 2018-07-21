@@ -168,3 +168,7 @@ WEBCRAFT.MobileStore/App_Data/aspnet-WEBCRAFT.MobileStore-20170530010941_log.ldf
 WEBCRAFT.MobileStore/WEBCRAFT.MobileStore.csproj
 WEBCRAFT.MobileStore/App_Data/aspnet-WEBCRAFT.MobileStore-20170530010941_log.ldf
 WEBCRAFT.MobileStore/App_Data/aspnet-WEBCRAFT.MobileStore-20170530010941.mdf
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
